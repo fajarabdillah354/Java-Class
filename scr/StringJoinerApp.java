@@ -14,5 +14,13 @@ public class StringJoinerApp {
 
         String value = joiner.toString();
         System.out.println(value);
+        String[] names = {
+          "fahmi","fabdilah","ahmad"
+        };
+        for (var values : names){//iterasi menggunakan for each
+            joiner.add(values);
+        }
+        System.out.println(joiner.toString());
+
     }
 }
