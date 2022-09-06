@@ -45,8 +45,7 @@ public class StringClass {
     melihat apakah String sudah terisi dengan menggunakan isEmpty()
      */
             String cek ="turu";
-            Boolean cekString = cek.isEmpty();
-            System.out.println(cekString);
+            System.out.println(cek.isEmpty());
 
 
     /*
