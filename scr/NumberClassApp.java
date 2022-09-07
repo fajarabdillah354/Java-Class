@@ -1,5 +1,5 @@
 
-public class NumberClass {
+public class NumberClassApp {
     public static void main(String[] args) {
         /*
         di bawah ini adalah contoh konversi tipe data number yang non primitif
@@ -25,4 +25,6 @@ public class NumberClass {
         System.out.println(setLong);
 
     }
+
 }
+
