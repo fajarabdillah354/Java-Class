@@ -4,7 +4,7 @@ public class StringClass {
         berikut adalah termasuk contoh method class String
          */
         public static void main(String[] args) {
-            String  name = "fajar AbdillAH ahmAd";
+            String name = "fajar AbdillAH ahmAd";
 
     /*
     membuat STRING menjadi huruf kecil semua dengan tOLowerCase()
@@ -29,7 +29,7 @@ public class StringClass {
     memecah String dengan menggunakan Array String dengan function split()
      */
             String[] split = name.split(" ");
-            for (var value : split){
+            for (var value : split) {
                 System.out.println(value.toUpperCase());
             }
 
@@ -44,7 +44,7 @@ public class StringClass {
     /*
     melihat apakah String sudah terisi dengan menggunakan isEmpty()
      */
-            String cek ="turu";
+            String cek = "turu";
             System.out.println(cek.isEmpty());
 
 
@@ -54,8 +54,6 @@ public class StringClass {
             String bola = "kurotul koddam";
             var lapangan = bola.charAt(3);//param ini berisi nilai index yang ingin di ambil
             System.out.println(lapangan);
-
-
 
 
         }
