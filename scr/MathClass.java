@@ -17,7 +17,7 @@ public class MathClass {
         System.out.println(max);
 
         /*
-        * 
+        *
          */
         var x = Math.abs(324);
         System.out.println(x);
