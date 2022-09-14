@@ -16,4 +16,5 @@
 * belajar BigIntegerClass
 * belajar Base64App
 * belajar ArraysClassApp
+* RegexClass
 
